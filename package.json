@@ -1,0 +1,23 @@
+{
+  "name": "aoristos-sql-db",
+  "version": "1.0.1",
+  "description": "SQLに簡単にアクセスするためのライブラリ",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoristos"
+  ],
+  "author": "aoristos",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
